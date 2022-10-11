@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Adventure {
+public class Adventure {
+    Map map = new Map();
 }
